@@ -1,5 +1,4 @@
 # autor: NEGRU ALEXANDRU GEORGE
-#grupa 215
 
 def isfloat(value):
   try:
